@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Public Post Preview v2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-13 14:28+0900\n"
+"PO-Revision-Date: 2013-01-13 14:41+0900\n"
+"Last-Translator: mekemoke <mekemoke@gmail.com>\n"
+"Language-Team: @mekemoke\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:121
+msgid "Enabled!"
+msgstr "有効になりました"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:122
+msgid "Disabled!"
+msgstr "無効になりました"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:144
+msgid "Public Post Preview"
+msgstr "限定公開"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:170
+msgid "Enable public preview"
+msgstr "この記事を限定公開する"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:175
+msgid "(Copy and share this link.)"
+msgstr "（このリンクをコピーして使ってください）"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:181
+msgid "This post is already public."
+msgstr "この投稿/ページはすでに公開されています。"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:185
+msgid ""
+"The current post status is not supported. It needs to be draft, pending or "
+"future."
+msgstr ""
+"現在のステータスには対応していません。下書き、レビュー待ち、予約投稿のいずれ"
+"かである必要があります。"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:340
+msgid "The link has been expired!"
+msgstr "このリンクは期限切れです"
+
+# @ ds-public-post-preview
+#: public-post-preview.php:343
+msgid "No Public Preview available!"
+msgstr "限定公開機能を利用できません"
