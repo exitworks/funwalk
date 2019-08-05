@@ -354,6 +354,16 @@ endwhile; endif; ?>
               <p class="credit">(C)2018 WANKODO</p>
             </div>
           </li>
+		<li>
+            <div class="charaBox"><img src="/wp-content/themes/fpw/assets/img/app/app_chara45.png"></div>
+            <div class="txtBox">
+              <h4>えがおん</h4>
+              <p>笑顔を届け大阪を元気にするために様々な事に挑戦中。天界から落ちてきて大阪の弁天町で修行中。</p>
+              <p class="credit">えがおん(R)</p>
+            </div>
+          </li>	
+			
+			
           <li>
             <div class="charaBox"><img src="/wp-content/themes/fpw/assets/img/app/app_chara33.png"></div>
             <div class="txtBox">
