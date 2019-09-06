@@ -2226,6 +2226,269 @@ ul.weekList li a:hover{
 	text-align: center;
 }	
 	
+
+	
+/*================================
+MORNING
+================================*/
+#morning{
+	
+	margin:-35px 0 0;
+}
+	
+#morning .morning-main{
+	text-align: center;
+	background: url(../img/morning/morning_main_bg.png) center center repeat-x;
+}
+	
+.morning-inner{
+		width: 1030px;
+		margin: 0 auto;
+		padding:50px 0;
+	}
+		
+	
+
+	
+#morning h2{
+		font-size: 52px;
+		color: #42b7a1;
+		text-align: center;
+	line-height: 1.3;
+	margin: 0 0 40px;
+	}
+	
+#morning h3{
+		font-size: 30px;
+		color: #42b7a1;
+		text-align: center;
+	margin: 0 0 40px;
+	line-height: 1.5;
+	}
+	
+#morning h3 span{
+	font-size: 20px !important;
+	color: #645500 !important;
+	background: #ffe102;
+	padding: 10px 30px;
+	border-radius:50px;
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+overflow: hidden;
+	}
+	
+	
+#morning h4{
+		font-size: 18px;
+	color: #fff;
+	background:#42b7a1;
+	padding: 6px 15px;
+		text-align:left;
+	margin: 0 0 15px;
+	clear: both;
+	}
+		
+
+	
+#morning .m-txt01{
+		
+		font-weight:bold;
+		font-size: 18px;
+	line-height: 2;
+	}
+	
+	#morning .m-txt02{
+		font-size: 12px !important;
+	line-height: 2;
+		padding: 0 0 50px;
+		margin: 0 0 50px !important; 
+		border-bottom: 1px solid #42b7a1;
+	}
+	
+	
+	#morning .m-map{
+	
+		border: 1px solid #42b7a1;
+		background: #fff;
+		padding:0;
+		margin: 40px 0;
+		border-radius:10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+overflow: hidden;
+	}
+	
+	#morning .m-map img{
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	#morning .m-boxA{
+		border: 5px solid #42b7a1;
+		background: #fff;
+		padding: 40px;
+		margin: 50px 0;
+		border-radius:10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+overflow: hidden;
+	}
+	
+	#morning .m-boxA p{
+		font-size: 16px;
+		margin: 0 0 20px;
+	}
+	
+	#morning .m-boxB{
+		border: 1px solid #42b7a1;
+		background: #fff;
+		border-radius:10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+overflow: hidden;
+		margin: 0 0 20px;
+		overflow: hidden;
+		display: table;
+		width: 100%;
+	}
+	
+	#morning .m-boxB .leftBoxA{
+		background:#42b7a1;
+		color: #fff;
+		font-weight: bold;
+		width: 10%;
+		display: table-cell;
+		
+		position: relative;
+	}
+	
+	#morning .m-boxB .leftBoxA span{
+		position: absolute;
+		top: 50%;
+		font-size: 40px;
+		margin: -30px 0 0;
+		width: 100%;
+		text-align: center;
+	}
+	
+	
+	#morning .m-boxB .rightBoxA{
+		padding:30px 30px;
+		display: table-cell;
+		vertical-align: top;
+	}
+	
+	#morning .m-boxB .rightBoxA p{
+		margin: 0;
+	}
+	
+	.indent {
+padding-left:0.6em;
+text-indent:-0.6em;
+}
+	
+	span.small{
+		font-size: 13px !important;
+	}
+	
+	
+	
+	#morning .m-boxC{
+		border: 1px solid #42b7a1;
+		background: #fff;
+		border-radius:10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+overflow: hidden;
+		margin: 0 0 20px;
+		overflow: hidden;
+		display: table;
+		padding: 30px;
+		
+	}
+	
+	
+	#morning .m-boxC .leftBoxB{
+		width:400px;
+		display: table-cell;
+	}
+	
+	#morning .m-boxC .rightBoxB{
+		display: table-cell;
+		padding: 0 0 0 30px;
+		vertical-align: top;
+		width: 400px;
+		
+	}
+	
+	#morning .m-boxC .rightBoxB .txt02{
+		font-size: 28px;
+		font-weight: bold;
+		padding: 0 0 20px;
+	}
+	
+	#morning .m-boxC .rightBoxB p{
+		font-size: 20px !important;
+		font-weight: bold;
+	}
+	
+	
+	#morning .m-boxD{
+		border: 1px solid #42b7a1;
+		background: #fff;
+		border-radius:10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+overflow: hidden;
+		margin: 0 0 20px;
+		overflow: hidden;
+		padding: 30px;
+		
+	}
+	
+	#morning .m-icon{
+		text-align: center;
+		color: #42b7a1;
+		font-size: 60px;
+		margin: -40px 0 -10px;
+	}
+	
+	
+	#morning .morning-btn{
+		text-align: center;
+		margin: 30px 0 20px;
+	}
+	
+	#morning .morning-btn a:hover{
+		text-decoration:none;
+filter:alpha(opacity=70);
+-moz-opacity: 0.7;
+opacity: 0.7;
+-moz-transition: all 0.3s;
+-o-transition: all 0.3s;
+-webkit-transition: all 0.3s;
+transition: all 0.3s;
+	}
+
+
+	
+	#morning .morning-footer{
+		text-align: center;
+		padding: 0 0 50px;
+	}
+	
+	#morning .morning-footer a:hover{
+		text-decoration:none;
+filter:alpha(opacity=70);
+-moz-opacity: 0.7;
+opacity: 0.7;
+-moz-transition: all 0.3s;
+-o-transition: all 0.3s;
+-webkit-transition: all 0.3s;
+transition: all 0.3s;
+	}
+	
 	
 	
 /*================================
