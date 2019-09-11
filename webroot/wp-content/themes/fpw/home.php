@@ -187,12 +187,12 @@ $is_carousel = true;
             <section class="postList">
 <article class="postNew">
                     <div class="photoBox">
-                        <a href="/special/ambassador/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_ambassador.png"></a>
+                        <a href="/special/month/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_morning.png"></a>
                     </div>
                     <div class="postTxtbox">
-                        <div class="icon-special"><a href="/special/ambassador/">SPECIAL</a></div>
-                        <h2 class="postTitle"><a href="/special/ambassador/">「FUN+WALK PROJECT」アンバサダーのご紹介</a></h2>
-                        <time>2018.10.01</time>
+                        <div class="icon-special"><a href="/special/month/">SPECIAL</a></div>
+                        <h2 class="postTitle"><a href="/special/month/">FUN+WALK PROJECT MORNING</a></h2>
+                        <time>2019.9.12</time>
                     </div>
                 </article>
 	
@@ -232,7 +232,7 @@ $is_carousel = true;
                 $post__not_in   = array();
 				$post__not_in[] = get_posts("name=premium_friday&post_type=special")[0]->ID;
 				$post__not_in[] = get_posts("name=specialposter&post_type=special")[0]->ID;
-				$post__not_in[] = get_posts("name=ambassador&post_type=special")[0]->ID;
+				$post__not_in[] = get_posts("name=month&post_type=special")[0]->ID;
                 $post__not_in[] = get_posts("name=shima&post_type=special")[0]->ID;
                 $post__not_in[] = get_posts("name=app&post_type=special")[0]->ID;
                 $args = array(

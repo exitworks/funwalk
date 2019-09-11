@@ -2318,16 +2318,15 @@ MORNING
 
 	
 #morning h2{
-		font-size:22px;
+		font-size:14px;
 		color: #42b7a1;
 		text-align: center;
-	line-height: 1.2;
-	margin: 0 0 10px !important;
+	line-height: 1.6 !important;
 	padding: 0 0 10px !important;
 	}
 	
 #morning h3{
-		font-size: 18px;
+		font-size: 16px;
 		color: #42b7a1;
 		text-align: center;
 	margin: 0 0 30px;
@@ -2370,9 +2369,15 @@ overflow: hidden;
 		font-size: 12px !important;
 	line-height: 2;
 		padding: 0 0 30px;
-		margin: 0 0 30px !important; 
 		border-bottom: 1px solid #42b7a1;
+	color: #42b7a1;
+		font-weight: bold;
 	}	
+	
+	#morning #coupon{
+		padding:30px 0 0 !important;
+	}
+	
 	
 	
 	
@@ -2536,7 +2541,7 @@ overflow: hidden;
 	
 	#morning .morning-btn{
 		text-align: center;
-		padding: 20px 0 10px;
+		padding: 0px 0 10px;
 	}
 	
 	#morning .morning-btn img{
@@ -2544,6 +2549,40 @@ overflow: hidden;
 		height: auto;
 	}
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	#morning .m-boxA h3{
+		font-size: 20px !important;
+	}
+	
+	#morning .m-boxA h3 div{
+		font-size: 14px !important;
+	}
+	
+	
+	
+	
+	
+	#morning .ttl-yellow{
+		font-size: 12px !important;
+	color: #645500 !important;
+	background: #ffe102;
+	padding: 5px 10px;
+	border-radius:50px;
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+overflow: hidden;
+		width: 200px;
+		text-align: center;
+		font-weight: bold;
+		margin: -10px auto 20px;
+	}
 	
 
 /*===============================
