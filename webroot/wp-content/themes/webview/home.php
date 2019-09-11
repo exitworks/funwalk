@@ -11,12 +11,12 @@
             <section id="article-list" class="postList">
 				<article class="postNew">
                     <div class="photoBox">
-                        <a href="/special/month/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_week.png"></a>
+                        <a href="/special/month/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_morning.png"></a>
                     </div>
                     <div class="postTxtbox">
                         <div class="icon-special"><a href="/special/month/">SPECIAL</a></div>
-                        <h2 class="postTitle"><a href="/special/month/">まいにちに「歩く」を足して、ハッピーになろう。FUN+WALK月間（10/01-10/31）</a></h2>
-                        <time>2018.10.01</time>
+                        <h2 class="postTitle"><a href="/special/month/">FUN+WALK PROJECT MORNING</a></h2>
+                        <time>2019.9.12</time>
                     </div>
                 </article>
 
