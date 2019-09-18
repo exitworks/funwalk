@@ -11,33 +11,33 @@
             <section id="article-list" class="postList">
 				<article class="postNew">
                     <div class="photoBox">
-                        <a href="/special/month/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_morning.png"></a>
+                        <a href="https://funpluswalk.jp/special/month/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_morning.png"></a>
                     </div>
                     <div class="postTxtbox">
                         <div class="icon-special"><a href="/special/month/">SPECIAL</a></div>
-                        <h2 class="postTitle"><a href="/special/month/">FUN+WALK PROJECT MORNING</a></h2>
+                        <h2 class="postTitle"><a href="https://funpluswalk.jp/special/month/" target="_blank">FUN+WALK PROJECT MORNING</a></h2>
                         <time>2019.9.12</time>
                     </div>
                 </article>
 
 			<article class="postNew">
                     <div class="photoBox">
-                        <a href="/special/ambassador/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_ambassador.png"></a>
+                        <a href="https://funpluswalk.jp/special/ambassador/" target="_blank"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_ambassador.png"></a>
                     </div>
                     <div class="postTxtbox">
-                        <div class="icon-special"><a href="/special/ambassador/">SPECIAL</a></div>
-                        <h2 class="postTitle"><a href="/special/ambassador/">「FUN+WALK PROJECT」アンバサダーのご紹介</a></h2>
+                        <div class="icon-special"><a href="https://funpluswalk.jp//special/ambassador/">SPECIAL</a></div>
+                        <h2 class="postTitle"><a href="https://funpluswalk.jp/special/ambassador/" target="_blank">「FUN+WALK PROJECT」アンバサダーのご紹介</a></h2>
                         <time>2018.10.01</time>
                     </div>
                 </article>
 
 				<article class="postNew">
                     <div class="photoBox">
-                        <a href="/special/specialposter/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_download.png"></a>
+                        <a href="https://funpluswalk.jp/special/specialposter/"><img src="<?php bloginfo('template_url'); ?>/assets/img/thumb_download.png"></a>
                     </div>
                     <div class="postTxtbox">
                         <div class="icon-special"><a href="/special/specialposter/">SPECIAL</a></div>
-                        <h2 class="postTitle"><a href="/special/specialposter/">FUN+WALK月間のスペシャルポスターを公開中！</a></h2>
+                        <h2 class="postTitle"><a href="https://funpluswalk.jp/special/specialposter/">FUN+WALK月間のスペシャルポスターを公開中！</a></h2>
                         <time>2018.10.01</time>
                     </div>
                 </article>

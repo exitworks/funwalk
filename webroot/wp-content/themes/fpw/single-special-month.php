@@ -16,143 +16,174 @@
 			
 			<div id="morning">
 				<div class="morning-main"> <img src="/wp-content/themes/fpw/assets/img/morning/morning_main.jpg" alt=""/> </div>
+				<div class="morinig-nav">
+				<ul>
+					<li><a href="/special/month/">TOP</a></li>
+					<li><a href="/special/month-specialday/">スペシャルデー</a></li>
+					<li><a href="/special/month-coupon/">クーポン</a></li>
+					<li><a href="/special/month-sns/">SNSキャンペーン</a></li>
+				  </ul>
 				
+				</div>
 				
 				
 				
 				<div class="morning-inner">
 
-				  <h2 class="morning-ttl">10月1日(火)より2019年度の<br class="spBox">「FUN+WALK月間」がスタート！</h2>
+				  <h2 class="morning-ttl">“歩く”ことを推進する強化月間「FUN＋WALK月間」が10月１日（火）よりスタート！</h2>
 					
-				  <h3>東京都内では“楽しく歩いて通勤する朝習慣をつくる”をテーマに<br class="pcBox">
-「FUN＋WALK MORNING」キャンペーンを展開し、<br class="pcBox">「朝食」と「歩く」を掛け合わせ“脳と体の活性化”を促すイベントも実施します。
+				  <h3>東京都内では10月15日（火）～17日（木）の<br>
+「FUN+WALK MORNING」スペシャルデーをメインイベントに据えた<br>
+“楽しく歩いて通勤する朝習慣をつくる”<br>
+「FUN+WALK MORNING」を展開します
+
 </h3>
 					
-					<h3>詳細はこのサイトで随時お知らせします!</h3>
+					<div class="morning-btn"><a href="/special/app/"><img src="/wp-content/themes/fpw/assets/img/morning/btn_app.png" alt=""/></a></div>
+					
+<ul class="morning-listB">
+						<li><a href="#fair"><div class="imgbox"><img src="/wp-content/themes/fpw/assets/img/morning/morning_w01.png" width="329" height="284" alt=""/></div>
+							
+							<div class="txtbox">
+				<p>田園都市線の皆さん! 10月は歩くと朝がおトク！</p>
+							<h3>「FUN+WALK MORNING」<br>スペシャルデー</h3>
+							
+							</div>
+							
+							
+							</a>
+						</li>
+						<li><a href="#fair"><div class="imgbox"><img src="/wp-content/themes/fpw/assets/img/morning/morning_w02.png" width="329" height="284" alt=""/></div>
+							
+							<div class="txtbox">
+				<p>渋谷・池尻大橋・中目黒周辺の飲食店にて</p>
+							<h3>「FUN+WALK MORNING」<br>クーポン</h3>
+							
+							</div>
+							
+							
+							</a>
+						</li>
+						<li><a href="#fair"><div class="imgbox"><img src="/wp-content/themes/fpw/assets/img/morning/morning_w03.png" width="329" height="284" alt=""/></div>
+							
+							<div class="txtbox">
+				<p>歩きやすい通勤スタイルをみんなとシェア！</p>
+							<h3>SNSキャンペーン</h3>
+							
+							</div>
+							
+							
+							</a>
+						</li>
+					</ul>					
 					
 					
-				 
+					
 
-<div class="morning-btn"><a href="/special/app/"><img src="/wp-content/themes/fpw/assets/img/morning/btn_app.png" alt=""/></a></div>
+<div class="boader">&nbsp;</div>
 					
 					
 					
 					
 			
 					
+					<h3>FUN＋WALK月間 取組事例</h3>
 					
-					
-					
-					
-					
-					<div class="m-boxA">
-					
+					<ul class="morning-list">
+						<li><a href="https://www.city.asahikawa.hokkaido.jp/kurashi/135/136/index.html" target="_blank">
+							<div class="imgbox imgtorikumi">
+							<img src="https://funpluswalk.go.jp/assets/images/torikumi/torikumi_thumb06.png" width="329" height="284" alt=""/>
+								</div>	</a>
+							<div class="txtbox">
 				
-					
-					<h3>「FUN+WALK MORNING」<br class="spBox">スペシャルデー <br><div>[荒天中止]</div></h3>
-					
-					<div class="ttl-yellow">10月15日(火)～10月17日(木)<br>
-7：00-10：00</div>	
-						
-					<p class="m-txt01">「FUN+WALK MORNING」のスペシャルコンテンツとして、3日間限定で、田園都市線「池尻大橋駅」～「渋谷駅」間をメインコースにウォーキングイベントを開催。脳と体を活性化するために必要なドリンクやフルーツに加え、ウォーキング後の朝食、限定ノベルティを無料で配布するなど、より楽しんでご参加いただける仕組みをご用意します。 </p>
-					
-					<div><img src="/wp-content/themes/fpw/assets/img/morning/txt01.png" alt="" />
-						
-					  </div>	
-					
-					<div class="m-map">
-				    <div class="pcBox"><img src="/wp-content/themes/fpw/assets/img/morning/map.png" alt=""/></div>
-					<div class="spBox"><img src="/wp-content/themes/fpw/assets/img/morning/map_sp.png" alt=""/></div> 	
-					</div>
-					
-					  <p class="m-txt02">※中止の場合はFUN+WALK PROJECTのHP等でお知らせします。 <br>
-※スタート地点およびゴール地点での配布物は異なります。<br>
-※ゴール地点では、スタート地点で配布するチラシをお待ちの方、もしくは3,000歩あるいたことが証明された方にのみ配布物をお渡しいたします。なお、それぞれの配布物の数には限りがございます。先着順でのお渡しとなります。<br>
-※交通ルールを守ってご参加ください。</p>
-						
-						
-					<h3 id="coupon">「FUN+WALK MORNING」クーポン<br>
-<span>2019年10月1日(火)～10月31日(木)</span></h3>
-						
-						<p class="m-txt01">「FUN+WALKアプリ」を使用して歩くと貯まるポイントを引き換えに参加できるお得なキャンペーン。渋谷・池尻大橋・中目黒周辺の飲食店で、朝の通勤時間帯～ランチタイムの時間帯限定で使えるクーポンとアサヒ飲料のドリンクがもらえます。 <br>
-※数に限りがございます。</p>	
-						
-						
-					  <div class="appBox">
-				<div class="app-left">
-            <div class="pcBox"><img src="/wp-content/themes/fpw/assets/img/morning/app_img01.png" width="262" height="554"></div>
-            <div class="spBox"><img src="/wp-content/themes/fpw/assets/img/morning/app_img01.png" width="262" height="554"></div>
-          </div>
-						  
-						  
-						  
-						  
-						  
-          <div class="app-right">
-           
-            
-            <p class="app-attention">スマートフォンの画面を見つめながらの移動は大変危険です。また自分自身だけでなく、周囲の方も巻き込む事故につながる可能性があります。<br />
-              歩行中はもちろん、車や自転車の運転中は、本アプリのご利用をお控えください。</p>
-            <div class="qrBox">
-              <div class="qrInner">
-                <div class="qr-ttl">早速インストールしよう</div>
-                <div class="qr-left">
-                  <div class="qr-ttl02">Androidの方</div>
-                  <img src="/wp-content/themes/fpw/assets/img/app/app_qr01.png" width="139" height="139">
-                  <div class="qr-btn"><a href="https://funpluswalk.jp/qr/Android.html" target="_blank"><img src="/wp-content/themes/fpw/assets/img/app/app_btn_google.png"></a></div>
-                </div>
-                <div class="qr-right">
-                  <div class="qr-ttl02">iPhoneの方</div>
-                  <img src="/wp-content/themes/fpw/assets/img/app/app_qr02.png" width="139" height="139">
-                  <div class="qr-btn"><a href="https://funpluswalk.jp/qr/iOS.html" target="_blank"><img src="/wp-content/themes/fpw/assets/img/app/app_btn_apple.png"></a></div>
-                </div>
-              </div>
-            </div>		
-			 </div>				
-				</div>			
-						
-						
-						
-						
-						
-					
-						
-						
-						
-						
-					
-					  <h4>期間</h4>
-					  <p>2019年10月1日～10月31日</p>
-						
-						
-					<h4>参加店舗一覧</h4>
-					  <p>COMING SOON</p>	
-						
-					  <h4>参加条件</h4>
-					  <p><a href="/special/app/">「FUN＋WALKアプリ」をダウンロード</a>して、各店舗のクーポンをゲットしてください。<br>
-3,000歩ごとにクーポンがゲットできます。<br>
-※「FUN+WALK MORNING」限定クーポンは3,000歩ごとにゲットできます。<br>
-　その他クーポンは、提供店舗によってクーポン獲得に必要な歩数が異なります。
-</p>
+							<h3 class="ml-ttl">北海道旭川市<br>
+健康づくりプラス１推進事業</h3>
+							<p>旭川市では、働く世代の方々の健康づくりをサポートしています。 市内事業所を対象に、仲間と一緒に職場で手軽に行える「90日間体重測定チャレンジ」などの取組を行っています。また、目標に応じたウォーキングモデルコースも紹介しています。<br><br>
 
+                              <a href="http://www.city.asahikawa.hokkaido.jp/kurashi/135/136/index.html" target="_blank">→ 詳細はこちら</a> </p>
+							</div>
+
+						</li>
+	
+	
+	
+	
+						<li><a href="http://c-f.kenmin-undo.jp/" target="_blank">
+							<div class="imgbox imgtorikumi">
+							<img src="https://funpluswalk.go.jp/assets/images/torikumi/torikumi_thumb01.png" width="329" height="284" alt=""/>
+								</div>	</a>
+							<div class="txtbox">
+			
+							<h3 class="ml-ttl">福島県<br>
+チャレンジふくしま県民運動「WALK BIZ」</h3>
+							<p>健康づくりの取組に身近なところからチャレンジしていく「チャレンジふくしま県民運動」を展開。その一環として歩きやすい靴や格好で通勤・勤務する「WALKBIZ（ウォークビズ）」を推進しています。<br>
+<br>
+<a href="http://c-f.kenmin-undo.jp/" target="_blank">→ 詳細はこちら</a> </p>
+							</div>
+
+						</li>
+						<li><a href="http://www.kenko-choju.tochigi.jp/board/?board_id=3" target="_blank">
+							<div class="imgbox imgtorikumi">
+							<img src="https://funpluswalk.go.jp/assets/images/torikumi/torikumi_thumb17.png" width="329" height="284" alt=""/>
+								</div>	</a>
+							<div class="txtbox">
+				
+							<h3 class="ml-ttl">
+栃木県<br>
+身体を動かそうプロジェクト「歩きやすい靴でFUN+WALK！」</h3>
+							<p>栃木県保健福祉部では、スポーツ庁FUN+WALK PROJECTにおける3月の「FUN+WALK月間」に連携した取組として、また、健康長寿とちぎづくり県民運動「身体を動かそうプロジェクト」の一環として、3月18日(月)から3月24日(日)まで、通勤・勤務時間中等において歩きやすい靴を履き、「プラス1,000歩、プラス10分」を合い言葉に歩数増加を心がける取組を実施します。<br>
+<br>
+
+								
+							  <a href="http://www.kenko-choju.tochigi.jp/board/?board_id=3" target="_blank">→ 詳細はこちら</a> </p>
+							</div>
+
+						</li>
+					</ul>
+					
+					
+					
+					
+					<div class="btnArea">
+					<div class="week-btnA"><a href="https://funpluswalk.go.jp/torikumi.html" target="_blank">もっと見る</a></div>
 					</div>
 					
 					
-					<div class="morning-footer"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img01.png" alt=""/>
-<a href="http://www.mext.go.jp/sports/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img03.png" alt=""/></a><br class="spBox">
-<img src="/wp-content/themes/fpw/assets/img/morning/morning_img06.png" alt=""/>
-						
-<a href="https://www.asahiinryo.co.jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img07.png" alt=""/></a>
-<a href="https://www.asics.com/jp/ja-jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img08.png" alt=""/></a>
-<a href="https://www.tokyu.co.jp/index.html" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img09.png" alt=""/></a>
-					<br class="spBox">
+<br>
+<br>
+
 					
-<img src="/wp-content/themes/fpw/assets/img/morning/morning_img04.png" alt=""/>
-<a href="https://www.city.shibuya.tokyo.jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img05.png" alt=""/></a>
+							
 					
-					</div>
 					
-				  <h3>詳細はこのサイトで随時お知らせします!</h3>
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<div class="morning-footer"><a href="/"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img01.png" alt=""/></a><a href="#"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img02.png" alt=""/></a><a href="http://www.mext.go.jp/sports/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img03.png" alt=""/></a><br class="spBox">
+<img src="/wp-content/themes/fpw/assets/img/morning/morning_img04.png" alt=""/><a href="https://www.city.shibuya.tokyo.jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img05.png" alt=""/></a><br class="spBox"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img06.png" alt=""/><a href="https://www.city.shibuya.tokyo.jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img07.png" alt=""/></a><a href="https://www.asics.com/jp/ja-jp/" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img08.png" alt=""/></a><a href="https://www.tokyu.co.jp/index.html" target="_blank"><img src="/wp-content/themes/fpw/assets/img/morning/morning_img09.png" alt=""/></a></div>
+					
+				 
 					
 			  </div>
 				

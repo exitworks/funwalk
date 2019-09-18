@@ -27,6 +27,13 @@ if($category != '') {
             <h3 class="ttl-b">記事一覧</h3>
             <section class="postList">
             <?php
+				//NEWPOSTから除外する投稿
+                $post__not_in   = array();
+				$post__not_in[] = get_posts("name=month-specialday&post_type=special")[0]->ID;
+                $post__not_in[] = get_posts("name=month-sns&post_type=special")[0]->ID;
+                $post__not_in[] = get_posts("name=month-coupon&post_type=special")[0]->ID;
+				
+				
                 $paged = get_query_var('paged') ? get_query_var('paged') : 1 ;
                 $args = array(
                     'post_type' => 'special',

@@ -235,6 +235,10 @@ $is_carousel = true;
 				$post__not_in[] = get_posts("name=month&post_type=special")[0]->ID;
                 $post__not_in[] = get_posts("name=shima&post_type=special")[0]->ID;
                 $post__not_in[] = get_posts("name=app&post_type=special")[0]->ID;
+				$post__not_in[] = get_posts("name=month-specialday&post_type=special")[0]->ID;
+                $post__not_in[] = get_posts("name=month-sns&post_type=special")[0]->ID;
+                $post__not_in[] = get_posts("name=month-coupon&post_type=special")[0]->ID;
+							
                 $args = array(
                     'post_type' => array('column', 'laboratory', 'special'),
                     'posts_per_page' => 9,
